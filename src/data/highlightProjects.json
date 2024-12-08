@@ -1,0 +1,89 @@
+{
+  "project1": [
+    {
+      "title": "AMTsDb",
+      "description": "A multi-page project to keep track of what users have watched and plan to watch. It includes features to rate, comment, view others' lists, and like their items. My biggest but earliest project, heavily backend-focused.",
+      "liveURL": "https://amtssdb.onrender.com/",
+      "codeURL": "https://github.com/KapteynUniverse/AMTssDb",
+      "usedLanguage": [
+        "EXPRESS",
+        "NODEJS",
+        "REST API",
+        "SQL/SUPABASE",
+        "PASSPORT",
+        "EJS",
+        "ENV",
+        "BCRYPT"
+      ],
+      "image": {
+        "png": "/assets/images/project-images/AMTsDb.png",
+        "alt": "Project image of the personal movie and TV show tracker"
+      }
+    }
+  ],
+  "project2": [
+    {
+      "title": "Space Tourism Website",
+      "description": "A responsive and accessible multi-page space tourism website, including a 404 page. Since it doesn't work on the Netlify page, I added it to the Explore button.",
+      "liveURL": "https://magical-lolly-5d2583.netlify.app/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/space-tourism-website-main",
+      "usedLanguage": ["REACT", "REACT ROUTER", "TAILWIND", "FRAMER MOTION"],
+      "image": {
+        "png": "/assets/images/project-images/spaceTourism.png",
+        "alt": "Project image of the multi-page space tourism website"
+      }
+    }
+  ],
+  "project3": [
+    {
+      "title": "E-Commerce Product Page",
+      "description": "A responsive and accessible e-commerce webpage featuring several modals.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/ecommerce-product-page-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/ecommerce-product-page-main",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/e-commerce.png",
+        "alt": "Project image of the e-commerce webpage"
+      }
+    }
+  ],
+  "project4": [
+    {
+      "title": "Sunnyside Landing Page",
+      "description": "A colorful landing page with smooth transitions, 'skip to content' links for keyboard users, and a mobile navbar modal.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/sunnyside-agency-landing-page-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/sunnyside-agency-landing-page-main",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/sunnyside.png",
+        "alt": "Project image of the Sunnyside landing page"
+      }
+    }
+  ],
+  "project5": [
+    {
+      "title": "Interactive Comment Section",
+      "description": "A real-time CRUD comment section.",
+      "liveURL": "https://famous-crumble-cddb9a.netlify.app/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/interactive-comments-section-main",
+      "usedLanguage": ["REACT", "FIRABASE", "TAILWIND", "DATE-FNS"],
+      "image": {
+        "png": "/assets/images/project-images/CRUD.png",
+        "alt": "Project image of the real-time CRUD comment section"
+      }
+    }
+  ],
+  "project6": [
+    {
+      "title": "Loopstudios Landing Page",
+      "description": "",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/loopstudios-landing-page-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/loopstudios-landing-page-main",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/landingPage.png",
+        "alt": "Project image of the Loopstudios landing page"
+      }
+    }
+  ]
+}

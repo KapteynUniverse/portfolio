@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Lato";
+  src: local("Lato"), url("/assets/fonts/Lato-Regular.ttf") format("truetype");
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  src: local("Playfair Display"),
+    url("/assets/fonts/PlayfairDisplay-VariableFont_wght.ttf")
+      format("truetype");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+:root {
+  --color-scrollbar-track: #1e1e24;
+  --color-scrollbar-thumb: #6649b8;
+  --color-bg-main: #ffffff;
+  --color-bg-header: #c5eafc;
+  --color-bg-footer: #98d1ed;
+  --color-bg-article: #e8f1fc;
+  --color-text-white: white;
+  --color-text-black: black;
+  --color-shadow: black;
+}
+
+[data-theme="dark"] {
+  --color-scrollbar-track: #2b2b35;
+  --color-scrollbar-thumb: #4e4c8c;
+  --color-bg-main: #0d0f12;
+  --color-bg-header: #192939;
+  --color-bg-footer: #1c3b4f;
+  --color-bg-article: #172436;
+  --color-text-white: #e3e6e8;
+  --color-text-black: white;
+  --color-shadow: white;
+}
+
+[data-theme="light"] {
+  --color-scrollbar-track: #e0e0e0;
+  --color-scrollbar-thumb: #cccccc;
+  --color-bg-main: #ffffff;
+  --color-bg-header: #c5eafc;
+  --color-bg-footer: #98d1ed;
+  --color-bg-article: #e8f1fc;
+  --color-text-white: white;
+  --color-text-black: black;
+  --color-shadow: black;
+}
+
+.cloud-pattern {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  background: radial-gradient(
+    circle at top,
+    var(--color-bg-main) 80%,
+    transparent 85%
+  );
+  background-size: 70px 50px;
+  background-repeat: repeat-x;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.nav-hover-effect::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -4px;
+  height: 2px;
+  background-color: var(--color-text-black);
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.5s ease-in-out;
+}
+
+.nav-hover-effect:hover::after {
+  transform: scaleX(1);
+}

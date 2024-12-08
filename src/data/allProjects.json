@@ -1,0 +1,327 @@
+{
+  "project1": [
+    {
+      "title": "Mondrian",
+      "description": "Piet Mondrian (born March 7, 1872) used the simplest combinations of straight lines, right angles, primary colours, and black, white, and gray.",
+      "liveURL": "https://kapteynuniverse.github.io/Mondrian/",
+      "codeURL": "https://github.com/KapteynUniverse/Mondrian",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/Mondrian.png",
+        "alt": "Recreation of a Mondrian art with HTML and CSS"
+      }
+    }
+  ],
+  "project2": [
+    {
+      "title": "Tindog",
+      "description": "A playful Tinder clone designed especially for dogs.",
+      "liveURL": "https://kapteynuniverse.github.io/Tindog/",
+      "codeURL": "https://github.com/KapteynUniverse/Tindog",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/tindog.png",
+        "alt": "Project photo of Tindog"
+      }
+    }
+  ],
+  "project3": [
+    {
+      "title": "Dice Game",
+      "description": "A dice game to play against the computer.",
+      "liveURL": "https://kapteynuniverse.github.io/Dice-Game/",
+      "codeURL": "https://github.com/KapteynUniverse/Dice-Game",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/diceGame.png",
+        "alt": "Project photo of dice game"
+      }
+    }
+  ],
+  "project4": [
+    {
+      "title": "Simon Game",
+      "description": "A Simon game where players follow instructions and click the correct buttons.",
+      "liveURL": "https://kapteynuniverse.github.io/Simon-game/",
+      "codeURL": "https://github.com/KapteynUniverse/Simon-game",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/simonGame.png",
+        "alt": "Project photo of simon game"
+      }
+    }
+  ],
+  "project5": [
+    {
+      "title": "Tamagotchi",
+      "description": "A nostalgic Tamagotchi demo.",
+      "liveURL": "https://kapteynuniverse.github.io/tamagotchi/",
+      "codeURL": "https://github.com/KapteynUniverse/tamagotchi",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/tamagotchi.png",
+        "alt": "Project photo of tamagotchi"
+      }
+    }
+  ],
+  "project6": [
+    {
+      "title": "Game dev studio website.",
+      "description": "A multi-page game development studio website.",
+      "liveURL": "https://kapteynuniverse.github.io/GameDev/",
+      "codeURL": "https://github.com/KapteynUniverse/GameDev",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/gameDev.png",
+        "alt": "Project photo of game dev studio home page"
+      }
+    }
+  ],
+  "project7": [
+    {
+      "title": "Tailwind landing page",
+      "description": "A landing page showcasing Tailwind CSS.",
+      "liveURL": "https://kapteynuniverse.github.io/Tailwind-Landing-Page/",
+      "codeURL": "https://github.com/KapteynUniverse/Tailwind-Landing-Page",
+      "usedLanguage": ["HTML", "TAILWIND"],
+      "image": {
+        "png": "/assets/images/project-images/tailwind-landing-page.png",
+        "alt": "Project photo of tailwind landing page"
+      }
+    }
+  ],
+  "project8": [
+    {
+      "title": "Social Links Profile",
+      "description": "A social links profile",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/social-links-profile-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/social-links-profile-main",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/social-link-profile.png",
+        "alt": "Project photo of social links profile"
+      }
+    }
+  ],
+  "project9": [
+    {
+      "title": "Recipe Page",
+      "description": "A recipe page with a formatted table.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/recipe-page-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/recipe-page-main",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/recipe-page.png",
+        "alt": "Project photo of recipe page"
+      }
+    }
+  ],
+  "project10": [
+    {
+      "title": "FAQ Accordion",
+      "description": "An accessible FAQ accordion implemented with the <details> tag.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/faq-accordion-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/faq-accordion-main",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/FAQ-accordion.png",
+        "alt": "Project photo of FAQ accordion"
+      }
+    }
+  ],
+  "project11": [
+    {
+      "title": "Interactive Rating Component",
+      "description": "An interactive rating component with modal.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/interactive-rating-component-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/interactive-rating-component-main",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/interactive-rating-component.png",
+        "alt": "Project photo of an interactive rating component"
+      }
+    }
+  ],
+  "project12": [
+    {
+      "title": "Sign-Up Form",
+      "description": "An accessible sign-up form with front-end validation (regex patterns) and clear valid/invalid indicators.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/intro-component-with-signup-form-master/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/intro-component-with-signup-form-master",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/sign-up-form.png",
+        "alt": "Project photo of sign-up form"
+      }
+    }
+  ],
+  "project13": [
+    {
+      "title": "Bento Grid",
+      "description": "",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/bento-grid-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/bento-grid-main",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/bento-grid.png",
+        "alt": "Project photo of bento grid"
+      }
+    }
+  ],
+  "project14": [
+    {
+      "title": "QR Code Component",
+      "description": "An accessible QR code component.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/qr-code-component-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/qr-code-component-main",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/QR-code.png",
+        "alt": "Project photo of QR code component"
+      }
+    }
+  ],
+  "project15": [
+    {
+      "title": "Blog Preview Card",
+      "description": "A blog preview card.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/blog-preview-card/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/blog-preview-card",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/blog-preview-card.png",
+        "alt": "Project photo of blog preview card"
+      }
+    }
+  ],
+  "project16": [
+    {
+      "title": "Product Preview Card Component",
+      "description": "A responsive product preview card component utilizing the <picture> tag.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/product-preview-card-component-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/product-preview-card-component-main",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/product-preview-card-component.png",
+        "alt": "Project photo of product preview card component"
+      }
+    }
+  ],
+  "project17": [
+    {
+      "title": "Four Card Feature Section",
+      "description": "A responsive four-card feature section with minimal use of media queries.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/four-card-feature-section-master/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/four-card-feature-section-master",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/four-card-feature-section.png",
+        "alt": "Project photo of four card feature section"
+      }
+    }
+  ],
+  "project18": [
+    {
+      "title": "Testimonial Grid Section",
+      "description": "A responsive testimonial grid section.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/testimonials-grid-section-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/testimonials-grid-section-main",
+      "usedLanguage": ["HTML", "CSS"],
+      "image": {
+        "png": "/assets/images/project-images/testimonials-grid-section.png",
+        "alt": "Project photo of testimonial grid section"
+      }
+    }
+  ],
+  "project19": [
+    {
+      "title": "Article Preview Component",
+      "description": "A responsive article preview component with modal.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/article-preview-component-master/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/article-preview-component-master",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/article-preview-component.png",
+        "alt": "Project photo of article preview component"
+      }
+    }
+  ],
+  "project20": [
+    {
+      "title": "Newsletter Sign Up",
+      "description": "A responsive newsletter sign-up form with a success message.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/newsletter-sign-up-with-success-message-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/newsletter-sign-up-with-success-message-main",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/newsletter-sign-up.png",
+        "alt": "Project photo of responsive newsletter sign up form"
+      }
+    }
+  ],
+  "project21": [
+    {
+      "title": "Time Tracking Dashboard",
+      "description": "A responsive time-tracking dashboard that fetches data from a JSON file.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/time-tracking-dashboard-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/time-tracking-dashboard-main",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/time-tracking-dashboard.png",
+        "alt": "Project photo of time tracking dashboard"
+      }
+    }
+  ],
+  "project22": [
+    {
+      "title": "Tip Calculator App",
+      "description": "A responsive tip calculator app.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/tip-calculator-app-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/tip-calculator-app-main",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/tip-calculator-app.png",
+        "alt": "Project photo of tip calculator"
+      }
+    }
+  ],
+  "project23": [
+    {
+      "title": "Contact Form",
+      "description": "A responsive contact form with a success message.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/contact-form-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/contact-form-main",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/contact-form.png",
+        "alt": "Project photo of contact form"
+      }
+    }
+  ],
+  "project24": [
+    {
+      "title": "News Homepage",
+      "description": "A responsive homepage for a newsletter company featuring a hamburger menu.",
+      "liveURL": "https://kapteynuniverse.github.io/frontend-mentor-challenges/news-homepage-main/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/news-homepage-main",
+      "usedLanguage": ["HTML", "CSS", "JS"],
+      "image": {
+        "png": "/assets/images/project-images/news-homepage.png",
+        "alt": "Project photo of news homepage"
+      }
+    }
+  ],
+  "project25": [
+    {
+      "title": "NFT Card Component",
+      "description": "",
+      "liveURL": "https://luxury-licorice-581b6a.netlify.app/",
+      "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/nft-preview-card-component-main",
+      "usedLanguage": ["HTML", "TAILWIND"],
+      "image": {
+        "png": "/assets/images/project-images/NFT-card-component.png",
+        "alt": "Project photo of NFT card component"
+      }
+    }
+  ]
+}
