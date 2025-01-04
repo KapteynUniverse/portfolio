@@ -20,6 +20,20 @@
   </head>
   <body class="font-sans text-lg">
     <div id="root" class="relative"></div>
+    <script>
+      window.addEventListener("blur", () => {
+        document.title = "Don't miss the chance to hire a great web developer";
+      });
+      window.addEventListener("focus", () => {
+        document.title = "Asilcan Toper's Portfolio";
+      });
+    </script>
     <script type="module" src="/src/main.jsx"></script>
+    <noscript
+      ><p style="text-align: center">
+        It would be better to look this portfolio with JavaScript on
+      </p>
+    </noscript
+    >
   </body>
 </html>
