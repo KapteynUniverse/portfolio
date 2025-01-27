@@ -7,8 +7,8 @@ import { useState } from "react";
 
 function Main() {
   const lists = {
-    languages: ["HTML", "CSS", "JavaScript", "EJS", "SQL"],
-    frameworks: ["Express", "Tailwind", "Bootstrap"],
+    languages: ["HTML", "CSS", "JavaScript", "TypeScript", "EJS", "SQL"],
+    frameworks: ["Next.js", "Express", "Tailwind", "Bootstrap"],
     databases: ["PostgreSQL", "Supabase", "Firebase"],
     libraries: ["React", "JQuery"],
     tools: ["Git/GitHub", "VSCode", "Figma", "Node", "Postman", "Vite"],
