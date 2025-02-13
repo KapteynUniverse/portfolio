@@ -50,13 +50,7 @@ function Main() {
               loading="lazy"
             />
             <p className="max-w-prose mt-4">
-              Hi, my name is Asilcan. I am self taught fullstack web developer.
-              My frontend knowledge heavier than backend thought. I received my
-              Bachelor's degree in Astronomy from Ege University. I've always
-              had an enthusiasm for programming. I tried some C++ and Python
-              years ago, and for the past year, I am interested in Full Stack
-              Web Development technologies. Currently working on accessibility
-              and React based projects.
+              Hi, my name is Asilcan. I'm a self-taught full-stack web developer with a strong focus on responsive design and accessibility. For the past year, I’ve been honing my skills in modern web technologies, following a mobile-first approach to create intuitive and user-friendly experiences. I specialize in Tailwind CSS, React, and Next.js, and I’m currently expanding my expertise with React Native and TypeScript. Always eager to learn and improve, I enjoy building sleek, accessible, and performant web applications.
             </p>
           </div>
         </article>
