@@ -25,7 +25,7 @@
     {
       "title": "Space Tourism Website",
       "description": "A responsive and accessible multi-page space tourism website, including a 404 page. Since it doesn't work on the Netlify page, I added it to the Explore button.",
-      "liveURL": "https://magical-lolly-5d2583.netlify.app/",
+      "liveURL": "https://space-tourism-fem-challenge.netlify.app/",
       "codeURL": "https://github.com/KapteynUniverse/frontend-mentor-challenges/tree/main/space-tourism-website-main",
       "usedLanguage": ["REACT", "REACT ROUTER", "TAILWIND", "FRAMER MOTION"],
       "image": {
